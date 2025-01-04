@@ -2,8 +2,6 @@
 
 https://fullstackopen.com/
 
----
-
 ## Progress
 
 ### Planned for January
