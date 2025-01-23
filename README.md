@@ -7,7 +7,7 @@ https://fullstackopen.com/
 ### Planned for January
 
 - [x] Part 0 - Web-sovellusten toiminnan perusteet
-- [ ] Part 1 - Reactin perusteet
+- [x] Part 1 - Reactin perusteet
 - [ ] Part 2 - Palvelimen kanssa tapahtuva kommunikointi
 - [ ] Part 3 - Palvelimen ohjelmointi NodeJS:n Express-kirjastolla
 - [ ] Part 4 - Express-sovellisten testaaminen, käyttäjänhallinta
