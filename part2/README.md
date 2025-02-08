@@ -1,7 +1,7 @@
 # Osa 2
 
-- [ ] Kokoelmien renderöinti ja moduulit
-- [ ] Lomakkeiden käsittely
-- [ ] Palvelimella olevan datan hakeminen
-- [ ] Palvelimella olevan datan muokkaaminen
+- [x] Kokoelmien renderöinti ja moduulit
+- [x] Lomakkeiden käsittely
+- [x] Palvelimella olevan datan hakeminen
+- [x] Palvelimella olevan datan muokkaaminen
 - [ ] Tyylien lisääminen React-sovellukseen
