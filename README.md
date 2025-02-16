@@ -11,7 +11,7 @@ https://fullstackopen.com/
 
 ### Planned for February
 
-- [ ] Part 2 - Palvelimen kanssa tapahtuva kommunikointi
+- [x] Part 2 - Palvelimen kanssa tapahtuva kommunikointi
 - [ ] Part 3 - Palvelimen ohjelmointi NodeJS:n Express-kirjastolla
 - [ ] Part 4 - Express-sovellisten testaaminen, käyttäjänhallinta
 
