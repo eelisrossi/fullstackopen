@@ -13,23 +13,29 @@ https://fullstackopen.com/
 
 - [x] Part 2 - Palvelimen kanssa tapahtuva kommunikointi
 - [ ] Part 3 - Palvelimen ohjelmointi NodeJS:n Express-kirjastolla
-- [ ] Part 4 - Express-sovellisten testaaminen, käyttäjänhallinta
 
 ### Planned for March
 
+- [ ] Part 4 - Express-sovellisten testaaminen, käyttäjänhallinta
 - [ ] Part 5 - React-sovelluksen testaaminen
-- [ ] Part 6 - Edistynyt tilan hallinta
-- [ ] Part 7 - React router, custom-hookit, tyylikirjastot ja webpack
 
 ### Planned for April
 
-- [ ] Part 8 - GrapghQL
-- [ ] Part 9 - TypeScript
-- [ ] Part 10 - React Native
+- [ ] Part 6 - Edistynyt tilan hallinta
+- [ ] Part 7 - React router, custom-hookit, tyylikirjastot ja webpack
 
 ### Planned for May
 
+- [ ] Part 8 - GrapghQL
+- [ ] Part 9 - TypeScript
+
+### Planned for June
+
+- [ ] Part 10 - React Native
 - [ ] Part 11 - CI/CD
+
+### Planned for July
+
 - [ ] Part 12 - Konttiteknologia
 - [ ] Part 13 - Relaatiotietokannan käyttö
 
